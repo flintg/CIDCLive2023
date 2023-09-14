@@ -4,6 +4,8 @@ Resources (and maybe some source code?) for my Clarion International Developers 
 ## Resources ##
 Kind of like a bibliography, but it's not properly formatted or annotated.  These resources might help you on your own testing journey. Follow these links at your own risk:
 
+* "Building Microservices: Designing Fine-Grained Systems" by Sam Newman; O'Reilly
+  * https://www.oreilly.com/library/view/building-microservices-2nd/9781492034018/ (accessed 2023-09-13)
 * "Observability Engineering: Achieving Production Excellence" by Charity Majors, Liz Fong-Jones, and George Miranda; O'Reilly
   * https://www.oreilly.com/library/view/observability-engineering/9781492076438/ (accessed 2023-09-12)
 * "Modern Software Engineering: Doing What Works to Build Better Software Faster" by David Farley; Pearson Education
